@@ -1,0 +1,26 @@
+exemplos de post:
+
+rota = http://localhost:3000/inscricao
+
+{ "nome": "leonardo",
+"sobrenome": "nammur",
+"email": "leonammur@gmail.com",
+"telefone": "1234",
+"diaNascimento": "19",
+"mesNascimento": "02",
+"anoNascimento": "97",
+"genero": "M",
+"km": "5",
+"cidade": "natal",
+"estado": "rn",
+"pais": "br"}
+
+rota = http://localhost:3000/classificacao
+//lembrar de mudar o ID para o ID atual na sua máquina
+
+{	"_id": "5de464866b9a6d74ace89caa", 
+	"classificacaoGeral": "2",
+	"classificacaoCategoria": 1,
+	"tempoLiquido": "22:10",
+	"tempoBruto" : "25:10"
+}
